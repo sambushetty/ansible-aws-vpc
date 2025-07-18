@@ -1,0 +1,3 @@
+bastion_ami: ami-03657b56516ab7912   //based on region ami will change, so copy ami east1 amzn linux 3
+region: us-east-1
+MYIP: 183.83.39.255/32   //i should add later my ip as it is needed for ssh
