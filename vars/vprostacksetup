@@ -1,8 +1,8 @@
-nginx_ami: ami-07efac79022b86107
-tomcat_ami: ami-07efac79022b86107
-memcache_ami: ami-07efac79022b86107
-rmq_ami: ami-07efac79022b86107
-mysql_ami: ami-07efac79022b86107
+nginx_ami: ami-020cba7c55df1f615
+tomcat_ami: ami-020cba7c55df1f615
+memcache_ami: ami-020cba7c55df1f615
+rmq_ami: ami-020cba7c55df1f615
+mysql_ami: ami-020cba7c55df1f615
 
 # Region Name
 region: "us-east-1"
